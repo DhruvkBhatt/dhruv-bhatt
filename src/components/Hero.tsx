@@ -22,7 +22,7 @@ const Hero = () => {
               <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-primary/40 p-1">
                 <div className="w-full h-full rounded-full overflow-hidden bg-gradient-to-br from-primary/30 to-accent/30">
                   <img 
-                    src="/placeholder.svg" 
+                    src="https://media.licdn.com/dms/image/v2/D4D03AQGcL7w2A90PnQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1686865652579?e=1752710400&v=beta&t=YGsCK149Rxr9emt-m8gjI0WGVCwPogGDt2NhIUmX5eA" 
                     alt="Dhruv Bhatt" 
                     className="w-full h-full object-cover"
                   />
